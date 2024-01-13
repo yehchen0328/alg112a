@@ -10,6 +10,7 @@
 課程教材 | https://github.com/ccc112a/py2cs <br/> https://www.hello-algo.com/
 
 
+# 除了原創其他都有標註參考或複製來源
 
 ## 原創 :
 
